@@ -53,5 +53,5 @@ void slove(float a, float b, float c)
         printf("The roots are complex and different.\n");
         printf("Root 1: %f + %fi\n", realPart, imaginaryPart);
         printf("Root 2: %f - %fi\n", realPart, imaginaryPart);
-    }
+    }//end of lineee
 }
